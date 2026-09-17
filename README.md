@@ -23,8 +23,7 @@ RepoReco-Team focuses on building a **GitHub repository recommender system**, tr
 **Timeline:** M2 Big Data project, 2026
 
 **Key repositories:**
-- [Repo Recommender — main project](https://github.com/RepoReco-Team/repo-recommender)
-- [Data Collection Pipeline](https://github.com/RepoReco-Team/data-collection)
+- [Repo Recommender — main project](https://github.com/GitRepoReco/Analyse-github)
 
 ---
 

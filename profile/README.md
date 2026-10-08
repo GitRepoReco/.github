@@ -13,6 +13,8 @@ Our goal is to design and compare several algorithms for **GitHub repository rec
 | Developer   | Luka Cognard    | Luka.Cognard.Etu@univ-lemans.fr      | @s2200371               |
 | Developer   | Mewen Puren     | Mewen.Puren.Etu@univ-lemans.fr       | @s201509                |
 | Supervisor  | Nicolas Dugué   | Nicolas.Dugue@univ-lemans.fr         | LIUM, Le Mans University |
+| Supervisor  | Aghilas Sini   | Aghilas.Sini@univ-lemans.fr         | LIUM, Le Mans University |
+
 
 ---
 

@@ -5,6 +5,12 @@ Our goal is to design and compare several algorithms for **GitHub repository rec
 
 ---
 
+## Website
+
+Our webapp is up ! https://gitreporeco.duckdns.org/
+
+---
+
 ## Members
 
 | Role        | Name            | Email                               | University Identifier |
@@ -13,6 +19,8 @@ Our goal is to design and compare several algorithms for **GitHub repository rec
 | Developer   | Luka Cognard    | Luka.Cognard.Etu@univ-lemans.fr      | @s2200371               |
 | Developer   | Mewen Puren     | Mewen.Puren.Etu@univ-lemans.fr       | @s201509                |
 | Supervisor  | Nicolas Dugué   | Nicolas.Dugue@univ-lemans.fr         | LIUM, Le Mans University |
+| Supervisor  | Aghilas Sini   | Aghilas.Sini@univ-lemans.fr         | LIUM, Le Mans University |
+
 
 ---
 
@@ -24,6 +32,7 @@ RepoReco-Team focuses on building a **GitHub repository recommender system**, tr
 
 **Key repositories:**
 - [Repo Recommender — main project](https://github.com/GitRepoReco/Analyse-github)
+- [Repo Recommender - angular project](https://github.com/GitRepoReco/GitRepoRecoAngular)
 
 ---
 
@@ -62,5 +71,7 @@ A simple popularity-based baseline, recommending repositories based on trending 
 
 ## Repository
 
-**Main Repository:** [Repo Recommender](https://github.com/GitRepoReco/Analyse-github)
-**.github:** [.github](https://github.com/GitRepoReco/.github)
+- **Main Repository:** [Repo Recommender](https://github.com/GitRepoReco/Analyse-github)
+- **Angular Repository:** [Repo Recommender - angular project](https://github.com/GitRepoReco/GitRepoRecoAngular)
+- **.github:** [.github](https://github.com/GitRepoReco/.github)
+

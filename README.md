@@ -33,6 +33,10 @@ RepoReco-Team focuses on building a **GitHub repository recommender system**, tr
 **Key repositories:**
 - [Repo Recommender — main project](https://github.com/GitRepoReco/Analyse-github)
 - [Repo Recommender - angular project](https://github.com/GitRepoReco/GitRepoRecoAngular)
+- [Repo Recommender - encoder](https://github.com/GitRepoReco/GitRepoRecoEncoder)
+- [Repo Recommender - DB setup](https://github.com/GitRepoReco/GitRepoSetup)
+- [Repo Recommender - collector](https://github.com/GitRepoReco/GitRepoCollector)
+- [.github](https://github.com/GitRepoReco/.github)
 
 ---
 
@@ -73,5 +77,8 @@ A simple popularity-based baseline, recommending repositories based on trending 
 
 - **Main Repository:** [Repo Recommender](https://github.com/GitRepoReco/Analyse-github)
 - **Angular Repository:** [Repo Recommender - angular project](https://github.com/GitRepoReco/GitRepoRecoAngular)
+- **Encoder:** [Repo Recommender - encoder](https://github.com/GitRepoReco/GitRepoRecoEncoder)
+- **Setup:** [Repo Recommender - DB setup](https://github.com/GitRepoReco/GitRepoSetup)
+- **Collector:** [Repo Recommender - collector](https://github.com/GitRepoReco/GitRepoCollector)
 - **.github:** [.github](https://github.com/GitRepoReco/.github)
 
